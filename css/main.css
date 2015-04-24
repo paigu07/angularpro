@@ -1,0 +1,29 @@
+body {
+  background: #f5e79e; }
+
+#contain {
+  background: #f7ecb5; }
+
+.container, .carousel-inner {
+  height: 300px;
+  width: 100%;
+  margin-bottom: 5%; }
+
+footer {
+  background: #101010;
+  position: relative; }
+
+#copy {
+  text-align: center;
+  color: #ffffff; }
+
+.foot1, .foot2, .foot3, .foot4 {
+  margin-left: 10%;
+  float: left; }
+
+.foot1 ul, .foot2 ul, .foot3 ul, .foot4 ul {
+  list-style: none;
+  text-align: left;
+  color: #31b0d5; }
+
+/*# sourceMappingURL=main.css.map */
